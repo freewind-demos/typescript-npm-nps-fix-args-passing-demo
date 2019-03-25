@@ -1,13 +1,7 @@
-JavaScript Npm Demo
-===================
+JavaScript Npm "nps" Demo
+=========================
 
 ```
 npm install
 npm run demo
-```
-
-You will see:
-
-```
-Hello, Npm!
 ```

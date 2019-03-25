@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "start": "nps"
   },
   "dependencies": {
-    "lodash": "^4.17.10"
+    "nps": "5.9.5"
   }
 }
