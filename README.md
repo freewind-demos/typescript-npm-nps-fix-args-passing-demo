@@ -3,5 +3,8 @@ JavaScript Npm "nps" Demo
 
 ```
 npm install
-npm run demo
+npm start
+npm start demo
+npm start hello
+npm start hello.another
 ```
